@@ -71,7 +71,7 @@ end
 
 Menu.Banner = {
     enabled = true,
-    imageUrl = "https://i.imgur.com/5bYL21I.jpeg",
+    imageUrl = "https://i.imgur.com/rPXZn4K.png",
     height = 100
 }
 
